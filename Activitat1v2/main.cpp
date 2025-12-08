@@ -3,7 +3,7 @@
 #include "operaciones_vector.hpp"
 using namespace std;
 
-
+//Canvi de B que provocarà conflicte
 
 int main()
 {
